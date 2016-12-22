@@ -145,7 +145,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
 	$(LOCAL_PATH)/lib/libwvm.so:system/lib/libwvm.so \
 	$(LOCAL_PATH)/lib/libWVStreamControlAPI_L3.so:system/lib/libWVStreamControlAPI_L3.so \
-	$(LOCAL_PATH)/lib/libdrmframework.so:system/lib/libdrmframework.so \
 	$(LOCAL_PATH)/lib/libQmageDecoder.so:system/lib/libQmageDecoder.so \
 	$(LOCAL_PATH)/media/battery_batteryerror.qmg:system/media/battery_batteryerror.qmg \
 	$(LOCAL_PATH)/media/battery_charging_5.qmg:system/media/battery_charging_5.qmg \
